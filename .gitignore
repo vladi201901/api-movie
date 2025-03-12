@@ -136,4 +136,4 @@ dist
 .pnp.*
 
 #secret.js (API KEY)
-js/secret.js
+#js/secret.js
